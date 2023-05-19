@@ -1,6 +1,6 @@
 ## Amy Rountree
 
-# About Me
+### About Me
 
 I have worked in many other fields throughout the years. Some are the mortgage industry and the credit card processing industry. I have recently earned a certificate in Data Analytics through Bridgerland Technical College in Logan, Utah. Through this certification I learned and worked with SQL, Python, Pandas, Visual Studio Code, Power BI and Tableau.
 <!--
